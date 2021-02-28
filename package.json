@@ -1,0 +1,14 @@
+{
+  "name": "full-stack-for-frontend-engineers",
+  "version": "1.0.0",
+  "description": "Following along with the Full Stack fro Frontend Engineers course @frontendmasters.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Monaccio",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
